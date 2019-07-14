@@ -4,9 +4,11 @@ packages:
   alice:
     dependency: "direct main"
     description:
-      name: alice
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "."
+      ref: "2446d7d9e171e0ecdad5407b5d9e70b06872c09c"
+      resolved-ref: "2446d7d9e171e0ecdad5407b5d9e70b06872c09c"
+      url: "https://github.com/britannio/alice.git"
+    source: git
     version: "0.0.10"
   async:
     dependency: transitive
