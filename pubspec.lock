@@ -5,8 +5,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "2446d7d9e171e0ecdad5407b5d9e70b06872c09c"
-      resolved-ref: "2446d7d9e171e0ecdad5407b5d9e70b06872c09c"
+      ref: "6b7736b7131d4d2bca245fb44e576920de231b0f"
+      resolved-ref: "6b7736b7131d4d2bca245fb44e576920de231b0f"
       url: "https://github.com/britannio/alice.git"
     source: git
     version: "0.0.10"

@@ -27,7 +27,7 @@ dependencies:
   alice: 
     git:
       url: https://github.com/britannio/alice.git
-      ref: 2446d7d9e171e0ecdad5407b5d9e70b06872c09c
+      ref: 6b7736b7131d4d2bca245fb44e576920de231b0f
 
 dev_dependencies:
   flutter_test:
